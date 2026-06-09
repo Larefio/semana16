@@ -1,6 +1,7 @@
 import Navbar from './components/Navbar'
 import Hero from './components/Hero'
 import Story from './components/Story'
+import AlwaysFresh from './components/AlwaysFresh'
 
 function App() {
   return (
@@ -8,6 +9,7 @@ function App() {
       <Navbar />
       <Hero />
       <Story />
+      <AlwaysFresh />
     </div>
   )
 }
