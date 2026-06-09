@@ -1,8 +1,9 @@
-import Navbar from './components/Navbar'
-import Hero from './components/Hero'
-import Story from './components/Story'
-import AlwaysFresh from './components/AlwaysFresh'
-import Menu from './components/Menu'
+import Navbar from './components/navbar'
+import Hero from './components/hero'
+import Story from './components/story'
+import AlwaysFresh from './components/alwaysFresh'
+import Menu from './components/menu'
+import EverythingTasty from './components/everythingTasty'
 
 function App() {
   return (
@@ -12,6 +13,7 @@ function App() {
       <Story />
       <AlwaysFresh />
       <Menu />
+      <EverythingTasty />
     </div>
   )
 }
