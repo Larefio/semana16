@@ -2,6 +2,7 @@ import Navbar from './components/Navbar'
 import Hero from './components/Hero'
 import Story from './components/Story'
 import AlwaysFresh from './components/AlwaysFresh'
+import Menu from './components/Menu'
 
 function App() {
   return (
@@ -10,6 +11,7 @@ function App() {
       <Hero />
       <Story />
       <AlwaysFresh />
+      <Menu />
     </div>
   )
 }
