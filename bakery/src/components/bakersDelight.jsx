@@ -1,4 +1,4 @@
-import './BakersDelight.css'
+import './bakersDelight.css'
 
 const BakersDelight = () => {
   return (
